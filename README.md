@@ -22,13 +22,13 @@ Asegúrate de tener Node.js y npm (o yarn) instalados en tu sistema.
 git clone https://github.com/tuusuario/app-crud-usuarios.git
 cd app-crud-usuarios
 ```
-Instala las dependencias del proyecto:
+2. Instala las dependencias del proyecto:
 ```
 npm install
 # o
 yarn
 ```
-1. Inicia la aplicación en modo de desarrollo:
+3. Inicia la aplicación en modo de desarrollo:
 ```
 npm run dev
 # o
